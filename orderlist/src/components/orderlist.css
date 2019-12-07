@@ -1,0 +1,10 @@
+.order-list {
+    width: 100%;
+    height: 10rem;
+}
+
+.centered-components {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
